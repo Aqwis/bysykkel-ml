@@ -41,7 +41,7 @@ def average_duration(routes):
 
 def main():
 	lines = []
-	with open('AllTrips.csv', 'r') as f:
+	with open('textdata/AllTrips.csv', 'r') as f:
 		reader = csv.reader(f, delimiter=';')
 		for i, line in enumerate(reader):
 			if i == 0:

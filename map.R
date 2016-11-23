@@ -8,8 +8,8 @@ require(ggmap)
 require(Matrix)
 require(dplyr)
 
-trips_allCols <- read.csv("AllTrips.csv", sep=";", dec=",")
-load('availability_edited') # Herfra får vi avail_orig
+trips_allCols <- read.csv("textdata/AllTrips.csv", sep=";", dec=",")
+load('bindata/availability_edited') # Herfra får vi avail_orig
 stations <- distinct(avail_orig, name, lat, lon, masl)
 stations <- transmute(stations, Station=enc2utf8(trimws(name)), Latitude=lat, Longitude=lon, Altitude=masl)
 
