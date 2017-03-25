@@ -1,0 +1,162 @@
+StartDate;StartTime;StartStation;StartStationId;EndDate;EndTime;EndStation;EndStationId;Duration
+01/07/16;6:00:03;Stensgata;42;01/07/16;6:10:09;Nylandsveien;28;10,1
+01/07/16;6:00:04;Elisenberg;97;01/07/16;6:09:21;Bankplassen;154;9,3
+01/07/16;6:00:15;Tøyen skole;81;01/07/16;6:13:42;Bankplassen;154;13,4
+01/07/16;6:00:19;Ila;118;01/07/16;6:09:08;Aker Brygge ;75;8,8
+01/07/16;6:00:24;St. Hanshaugen;44;01/07/16;6:07:44;Majorstuveien;61;7,3
+01/07/16;6:00:24;Dælenenggata ;144;01/07/16;7:22:51;Ruseløkka;48;82,4
+01/07/16;6:00:36;Tannlegehøyskolen;91;01/07/16;6:09:00;Sjøsiden øst;137;8,4
+01/07/16;6:00:47;Nylandsveien;28;01/07/16;6:05:23;Sofienbergparken sør;33;4,6
+01/07/16;6:01:15;Pilestredet;64;01/07/16;6:05:04;Saga Kino;105;3,8
+01/07/16;6:01:47;Carl Berners plass nord;122;01/07/16;6:17:42;Majorstuen;50;15,9
+01/07/16;6:01:53;Jakob kirke;142;01/07/16;6:07:33;Paléhaven;126;5,7
+01/07/16;6:02:13;Marienlyst;46;01/07/16;6:07:58;Studentparlamentet;92;5,8
+01/07/16;6:03:00;St. Hanshaugen;44;01/07/16;6:25:24;Hasle;115;22,4
+01/07/16;6:03:07;Hallénparken;27;01/07/16;6:09:50;Jakob kirke;142;6,7
+01/07/16;6:03:10;Munkegata trikkestopp;80;01/07/16;6:13:39;Studenterlunden;141;10,5
+01/07/16;6:03:23;Uranienborgparken;54;01/07/16;6:13:44;Sjøsiden øst;137;10,3
+01/07/16;6:03:32;Fredensborg;45;01/07/16;6:07:50;Oslo City;71;4,3
+01/07/16;6:03:36;Frogner Stadion;94;01/07/16;6:16:03;Nylandsveien;28;12,4
+01/07/16;6:04:08;Sukkerbiten;163;01/07/16;6:16:43;Pilestredet Park Studenthus;89;12,6
+01/07/16;6:04:16;Sommerfrydhagen;26;01/07/16;6:08:24;Vaterlandsparken;68;4,1
+01/07/16;6:05:27;Helga Helgesens plass;59;01/07/16;6:08:03;Vaterlandsparken;68;2,6
+01/07/16;6:05:43;Munkegata trikkestopp;80;01/07/16;6:18:04;Tinghuset ;69;12,3
+01/07/16;6:05:46;Tjuvholmen;101;01/07/16;6:18:37;Majorstuveien;61;12,8
+01/07/16;6:06:06;Saga Kino;105;01/07/16;6:12:08;HiOA;123;6
+01/07/16;6:06:26;Fram-gården;99;01/07/16;6:11:03;Rådhusgata;70;4,6
+01/07/16;6:06:34;Birkelunden;34;01/07/16;6:11:09;Skippergata;121;4,6
+01/07/16;6:07:22;Alexander Kiellands Plass;58;01/07/16;6:12:32;Oslo City;71;5,2
+01/07/16;6:07:41;St. Hanshaugen park nord;88;01/07/16;6:16:48;Majorstuen;50;9,1
+01/07/16;6:08:18;Elisenberg;97;01/07/16;6:10:39;Fram-gården;99;2,3
+01/07/16;6:08:31;Schous plass;146;01/07/16;6:17:55;Saga Kino;105;9,4
+01/07/16;6:09:02;Carl Berners plass nord;122;01/07/16;6:19:05;Storgata;41;10,1
+01/07/16;6:09:56;Vaterlandsparken;68;01/07/16;6:13:54;Sjøsiden øst;137;4
+01/07/16;6:10:14;Hammersborg Torg;43;01/07/16;6:13:58;Sjøsiden øst;137;3,7
+01/07/16;6:10:30;Parkveien;100;01/07/16;6:17:35;Saga Kino;105;7,1
+01/07/16;6:10:41;Torggata;116;01/07/16;6:17:35;Birkelunden;34;6,9
+01/07/16;6:11:05;Parkveien;100;01/07/16;6:17:28;Saga Kino;105;6,4
+01/07/16;6:11:47;Bankplassen;154;01/07/16;6:15:27;Sjøsiden øst;137;3,7
+01/07/16;6:13:11;Skippergata;121;01/07/16;6:15:56;Sjøsiden øst;137;2,8
+01/07/16;6:13:15;Tjuvholmen;101;01/07/16;6:23:55;Vår Frelsers gravlund sør;87;10,7
+01/07/16;6:13:17;Parkveien;100;01/07/16;6:17:04;Tinghuset ;69;3,8
+01/07/16;6:13:21;Schous plass;74;01/07/16;6:17:21;Sentrum Scene ;36;4
+01/07/16;6:13:33;Sjøsiden øst;137;01/07/16;6:16:53;Bankplassen;154;3,3
+01/07/16;6:14:20;Botanisk Hage sør;29;01/07/16;6:23:03;Pilestredet;64;8,7
+01/07/16;6:15:36;Majorstuveien;61;01/07/16;6:28:05;Torggata;116;12,5
+01/07/16;6:16:09;Fagerheimgata ;143;01/07/16;6:24:50;Oslo City;71;8,7
+01/07/16;6:17:27;Carl Berners plass nord;122;01/07/16;6:35:36;Ullevålsalléen;93;18,1
+01/07/16;6:17:28;Adamstuen;86;01/07/16;6:25:46;Jernbanetorget;67;8,3
+01/07/16;6:17:46;St. Hanshaugen;44;01/07/16;6:21:45;Tinghuset ;69;4
+01/07/16;6:18:06;Hammersborg Torg;43;01/07/16;6:24:32;Aker Brygge ;75;6,4
+01/07/16;6:18:22;Bislett Stadion;35;01/07/16;6:29:22;Chr. Michelsens Gate;110;11
+01/07/16;6:18:24;Fredensborg;45;01/07/16;6:23:38;Sjøsiden øst;137;5,2
+01/07/16;6:18:25;Alexander Kiellands Plass;58;01/07/16;7:43:30;Alexander Kiellands Plass;58;85,1
+01/07/16;6:18:54;AHO;83;01/07/16;6:24:43;Oslo Plaza;66;5,8
+01/07/16;6:19:07;Tannlegehøyskolen;91;01/07/16;6:26:14;Birkelunden;34;7,1
+01/07/16;6:20:01;Sofienbergparken nord;84;01/07/16;6:33:21;Storo Storsenter;106;13,3
+01/07/16;6:20:08;Torshovparken vest;112;01/07/16;6:31:31;Professor Aschehougs plass;109;11,4
+01/07/16;6:20:54;Tøyen skole;81;01/07/16;6:23:23;Nylandsveien;28;2,5
+01/07/16;6:20:54;Arkitekt Rivertz Plass;60;01/07/16;6:31:12;Spikersuppa Vest;103;10,3
+01/07/16;6:20:58;Jakob kirke;142;01/07/16;6:35:01;Skillebekk;95;14,1
+01/07/16;6:21:04;Jakob kirke;142;01/07/16;6:25:43;Sjøsiden øst;137;4,6
+01/07/16;6:21:06;Jakob kirke;142;01/07/16;6:25:41;Sjøsiden øst;137;4,6
+01/07/16;6:21:38;Storo Storsenter;106;01/07/16;6:36:17;Fred Olsens gate;156;14,6
+01/07/16;6:21:54;Parkveien;100;01/07/16;6:25:51;Saga Kino;105;3,9
+01/07/16;6:21:55;Olaf Ryes plass ;114;01/07/16;6:28:22;Fred Olsens gate;156;6,5
+01/07/16;6:22:07;Saga Kino;105;01/07/16;6:25:31;Tjuvholmen;101;3,4
+01/07/16;6:22:26;HiOA;123;01/07/16;6:33:11;Vippetangen vest;73;10,8
+01/07/16;6:22:41;AHO;83;01/07/16;6:29:10;Paléhaven;126;6,5
+01/07/16;6:22:58;Lodalen busstopp;30;01/07/16;6:29:55;Sommerfrydhagen;26;7
+01/07/16;6:23:54;Sofienbergparken nord;84;01/07/16;6:30:43;Skippergata;121;6,8
+01/07/16;6:24:19;Sofienbergparken nord;84;01/07/16;6:29:45;Oslo City;71;5,4
+01/07/16;6:24:22;Torggata;116;01/07/16;6:26:38;Oslo City;71;2,3
+01/07/16;6:25:01;Aker Brygge ;75;01/07/16;6:30:00;Tinghuset ;69;5
+01/07/16;6:25:42;Vår Frelsers gravlund sør;87;01/07/16;6:29:03;Storgata;41;3,3
+01/07/16;6:26:02;Adamstuen;86;01/07/16;6:35:59;Professor Aschehougs plass;109;10
+01/07/16;6:26:31;Bislett Stadion;35;01/07/16;6:36:38;AHO;83;10,1
+01/07/16;6:26:57;Studentparlamentet;92;01/07/16;6:40:09;Munkegata trikkestopp;80;13,2
+01/07/16;6:27:10;Botanisk Hage sør;29;01/07/16;6:32:11;Vaterlandsparken;68;5
+01/07/16;6:27:42;St. Hanshaugen;44;01/07/16;6:33:30;Sjøsiden øst;137;5,8
+01/07/16;6:28:11;Carl Berners plass nord;122;01/07/16;6:33:36;Helga Helgesens plass;59;5,4
+01/07/16;6:28:25;Pilestredet Park Studenthus;89;01/07/16;6:33:55;Ruseløkkgården;104;5,5
+01/07/16;6:28:28;Alexander Kiellands Plass;58;01/07/16;6:35:24;Sjøsiden øst;137;6,9
+01/07/16;6:28:34;Botanisk Hage sør;29;01/07/16;6:34:56;Sentrum Scene ;36;6,4
+01/07/16;6:29:44;Fagerheimgata ;143;01/07/16;6:39:36;Studenterlunden;141;9,9
+01/07/16;6:29:49;Bislett Stadion;35;01/07/16;6:35:34;Saga Kino;105;5,7
+01/07/16;6:29:55;Fagerheimgata ;143;01/07/16;6:38:26;Nylandsveien;28;8,5
+01/07/16;6:30:19;Tinghuset ;69;01/07/16;6:36:04;Vaterlandsparken;68;5,7
+01/07/16;6:30:21;Marienlyst;46;01/07/16;6:39:08;Skøyen;63;8,8
+01/07/16;6:30:27;Frogner Stadion;94;01/07/16;6:37:10;Skøyen;63;6,7
+01/07/16;6:30:33;Ila;118;01/07/16;6:35:42;Stensgata;42;5,2
+01/07/16;6:30:42;Kværnerbyen;82;01/07/16;6:44:46;Aker Brygge ;75;14,1
+01/07/16;6:30:46;Alexander Kiellands Plass;58;01/07/16;6:54:26;Majorstuen skole;133;23,7
+01/07/16;6:30:52;Pilestredet;64;01/07/16;6:36:17;Jernbanetorget;67;5,4
+01/07/16;6:31:06;Sofienbergparken nord;84;01/07/16;7:51:24;Aker Brygge ;75;80,3
+01/07/16;6:31:20;Olaf Ryes plass ;114;01/07/16;6:39:29;Jernbanetorget;67;8,1
+01/07/16;6:31:40;Alexander Kiellands Plass;58;01/07/16;6:39:03;Kontraskjæret;65;7,4
+01/07/16;6:31:50;Ila;118;01/07/16;6:36:56;Sentrum Scene ;36;5,1
+01/07/16;6:32:02;Sommerfrydhagen;26;01/07/16;6:38:27;Fred Olsens gate;156;6,4
+01/07/16;6:32:09;Botanisk Hage sør;29;01/07/16;6:46:47;Vulkan;162;14,6
+01/07/16;6:32:16;St. Hanshaugen;44;01/07/16;6:37:09;Professor Aschehougs plass;109;4,9
+01/07/16;6:32:27;Elisenberg;97;01/07/16;6:38:50;Aker Brygge ;75;6,4
+01/07/16;6:32:29;Oslo Hospital;39;01/07/16;6:38:16;Helga Helgesens plass;59;5,8
+01/07/16;6:32:41;AHO;83;01/07/16;6:37:52;Oslo City;71;5,2
+01/07/16;6:32:57;Helga Helgesens plass;59;01/07/16;6:46:27;Tinghuset ;69;13,5
+01/07/16;6:33:27;Stensparken ;149;01/07/16;7:08:59;Skøyen;63;35,5
+01/07/16;6:33:44;Schous plass;146;01/07/16;6:40:05;Bankplassen;154;6,3
+01/07/16;6:33:51;Ruseløkka;48;01/07/16;6:41:23;Sentrum Scene ;36;7,5
+01/07/16;6:33:52;Hallings gate;148;01/07/16;6:40:11;Kirkeristen;40;6,3
+01/07/16;6:33:56;Majorstuen;50;01/07/16;7:44:45;Stensparken ;149;70,8
+01/07/16;6:34:08;Schous plass;146;01/07/16;6:37:29;Vaterlandsparken;68;3,4
+01/07/16;6:34:35;Schous plass;74;01/07/16;6:40:07;Fred Olsens gate;156;5,5
+01/07/16;6:35:00;Arkitekt Rivertz Plass;60;01/07/16;6:48:01;Kirkeristen;40;13
+01/07/16;6:35:24;Helga Helgesens plass;59;01/07/16;6:43:35;Vulkan;162;8,2
+01/07/16;6:35:27;Pilestredet;64;01/07/16;6:40:22;Legevakten;145;4,9
+01/07/16;6:35:34;Tøyenparken ;31;01/07/16;6:39:50;Nylandsveien;28;4,3
+01/07/16;6:35:41;Jakob kirke;142;01/07/16;6:43:09;Saga Kino;105;7,5
+01/07/16;6:36:07;Jernbanetorget;67;01/07/16;6:37:41;Kirkeristen;40;1,6
+01/07/16;6:36:12;Hallings gate;148;01/07/16;6:42:44;Skippergata;121;6,5
+01/07/16;6:37:00;Aker Brygge ;75;01/07/16;6:39:03;Saga Kino;105;2,1
+01/07/16;6:37:11;Kontraskjæret;65;01/07/16;6:40:39;Bankplassen;154;3,5
+01/07/16;6:37:43;Hammersborg Torg;43;01/07/16;6:42:11;Studenterlunden;141;4,5
+01/07/16;6:37:57;Professor Aschehougs plass;109;01/07/16;6:41:52;Paléhaven;126;3,9
+01/07/16;6:38:07;Munkegata trikkestopp;80;01/07/16;6:42:40;Storgata;41;4,5
+01/07/16;6:38:08;Olaf Ryes plass ;114;01/07/16;6:43:17;Jernbanetorget;67;5,2
+01/07/16;6:38:16;Gimle Kino;98;01/07/16;6:47:21;Oslo City;71;9,1
+01/07/16;6:38:38;Majorstuen;50;01/07/16;6:50:16;Oslo City;71;11,6
+01/07/16;6:38:43;Bankplassen;154;01/07/16;6:42:52;Sjøsiden øst;137;4,1
+01/07/16;6:39:09;Gimle Kino;98;01/07/16;6:41:49;Olav Kyrres plass;124;2,7
+01/07/16;6:39:21;Chr. Michelsens Gate;110;01/07/16;6:48:40;Kirkeristen;40;9,3
+01/07/16;6:39:55;Torggata;116;01/07/16;6:45:46;Birkelunden;34;5,8
+01/07/16;6:39:58;Schous plass;146;01/07/16;6:43:51;Oslo City;71;3,9
+01/07/16;6:40:10;Sofienbergparken nord;84;01/07/16;6:59:38;Skøyen;63;19,5
+01/07/16;6:40:20;Elisenberg;97;01/07/16;6:45:48;Aker Brygge ;75;5,5
+01/07/16;6:40:25;Saga Kino;105;01/07/16;6:42:37;Aker Brygge ;75;2,2
+01/07/16;6:40:31;Stensparken ;149;01/07/16;8:07:35;Frogner Stadion;139;87,1
+01/07/16;6:40:45;Olaf Ryes plass ;114;01/07/16;6:54:56;Parkveien;100;14,2
+01/07/16;6:41:15;Sommerfrydhagen;26;01/07/16;6:45:44;Oslo Plaza;66;4,5
+01/07/16;6:41:20;Gimle Kino;98;01/07/16;6:44:24;Hydroparken ;62;3,1
+01/07/16;6:41:55;Adamstuen;86;01/07/16;6:55:24;Olav Kyrres plass;124;13,5
+01/07/16;6:42:07;Ila;118;01/07/16;6:50:20;Tinghuset ;69;8,2
+01/07/16;6:42:26;Majorstuen;50;01/07/16;6:49:31;Ruseløkka;48;7,1
+01/07/16;6:42:38;Majorstuen;50;01/07/16;6:53:33;Tjuvholmen;101;10,9
+01/07/16;6:42:42;Adamstuen;37;01/07/16;6:44:33;St. Hanshaugen park vest;90;1,9
+01/07/16;6:43:03;Alexander Kiellands Plass;58;01/07/16;6:48:03;Hammersborg Torg;43;5
+01/07/16;6:43:29;Arkitekt Rivertz Plass;60;01/07/16;6:53:02;Spikersuppa Vest;103;9,6
+01/07/16;6:43:30;Olaf Ryes plass ;114;01/07/16;6:50:53;Sjøsiden vest;72;7,4
+01/07/16;6:43:38;Trondheimsveien ;32;01/07/16;6:44:55;Trondheimsveien ;32;1,3
+01/07/16;6:43:55;Vår Frelsers gravlund sør;87;01/07/16;9:11:00;Fram-gården;99;147,1
+01/07/16;6:44:10;Kirkeristen;40;01/07/16;6:51:43;Vippetangen vest;73;7,6
+01/07/16;6:44:14;Helga Helgesens plass;59;01/07/16;6:54:32;Ila;118;10,3
+01/07/16;6:44:41;Vår Frelsers gravlund sør;87;01/07/16;8:41:45;Frogner Stadion;94;117,1
+01/07/16;6:44:42;Stensparken ;149;01/07/16;6:53:57;Sjøsiden øst;137;9,3
+01/07/16;6:44:46;Saga Kino;105;01/07/16;6:47:15;Ruseløkka;48;2,5
+01/07/16;6:45:06;Birkelunden;34;01/07/16;6:57:37;Rådhusgata;70;12,5
+01/07/16;6:45:13;Trondheimsveien ;32;01/07/16;6:54:38;Vaterlandsparken;68;9,4
+01/07/16;6:45:24;Elisenberg;97;01/07/16;6:53:26;Tinghuset ;69;8
+01/07/16;6:45:45;Helga Helgesens plass;59;01/07/16;6:50:46;Kirkeristen;40;5
+01/07/16;6:45:51;Alexander Kiellands Plass;58;01/07/16;6:53:48;Oslo Plaza;66;8
+01/07/16;6:46:06;St. Hanshaugen park sør;76;01/07/16;7:11:02;Majorstuen;50;24,9
+01/07/16;6:46:13;Paléhaven;126;01/07/16;7:04:00;Schous plass;74;17,8
+01/07/16;6:46:15;St. Hanshaugen park vest;90;01/07/16;6:55:35;Paléhaven;126;9,3
+01/07/16;6:46:17;Carl Berners plass sør;113;01/07/16;6:53:14;Sjøsiden øst;137;6,9
